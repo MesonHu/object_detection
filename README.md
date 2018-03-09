@@ -294,7 +294,7 @@ If building from sources, make sure the library loaded at runtime matches a comp
 Answer:install libcudnn 7.0.5
 [Answer](https://github.com/tensorflow/tensorflow/issues/17422)
 
-6. Get import cv2 error hwen runningn Fast-rcnn_webcam.
+6. import cv2 error hwen runningn Fast-rcnn_webcam.
 [Answer] Remove opencv and reinstall opencv_python-3.4.1-cp35-cp35m-win_amd64.whl
 
 7. Cannot run iPython
