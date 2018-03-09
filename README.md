@@ -295,10 +295,11 @@ Answer:install libcudnn 7.0.5
 [Answer](https://github.com/tensorflow/tensorflow/issues/17422)
 
 6. import cv2 error hwen runningn Fast-rcnn_webcam.
-[Answer] Remove opencv and reinstall opencv_python-3.4.1-cp35-cp35m-win_amd64.whl
+Answer:Answer:Remove opencv and reinstall opencv_python-3.4.1-cp35-cp35m-win_amd64.whl
 
 7. Cannot run iPython
-[Answer] reinstall jupyter from Conda Navigator
+reinstall jupyter from Conda Navigator
+
 # 致謝
 最後，本專案只是把 EdjeElectronics 作者的 [這篇](https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10)
 實作出來，並把步驟記錄起來，實際上在 run 的時候會有需多問題，可以參考 [這篇](https://www.youtube.com/watch?v=Rgpfk6eYxJA)
